@@ -1,5 +1,5 @@
 [project]
-name = "production_scheduler"
+name = "production_entry"
 authors = [
     { name = "Admin", email = "admin@example.com"}
 ]

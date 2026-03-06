@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
 __version__ = "0.0.1"
 
 setup(
-	name="production_scheduler",
+	name="production_entry",
 	version=__version__,
 	description="Production Scheduler App",
 	author="Admin",
